@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edward Nye</h1>
 <h3 align="center">An Astrophysics Graduate</h3>
-<img src="https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<img src="https://github.com/Edward-Nye/Edward-Nye/commit/2fdbccea58255977d5e4c201594471b9d013b9f6">
 - 🔭 I’m currently working on [Orbital_Trajectori_Sim](https://github.com/Edward-Nye/Orbital_Trajectory_Sim)
 
 - 🌱 I’m currently learning **PHP**
