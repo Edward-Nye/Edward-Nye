@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Orbital_Trajectori_Sim](https://github.com/Edward-Nye/Orbital_Trajectory_Sim)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **Physics**
 
