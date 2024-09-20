@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edward Nye</h1>
 <h3 align="center">An Astrophysics Graduate</h3>
 
-- 🔭 I’m currently working on [Orbital_Trajectori_Sim](https://github.com/Edward-Nye/Orbital_Trajectory_Sim)
+- 🔭 I’m currently working on [SatelliteOrbitSimulation](https://github.com/Edward-Nye/SatelliteOrbitSimulation)
 
 - 🌱 I’m currently learning **C++**
 
